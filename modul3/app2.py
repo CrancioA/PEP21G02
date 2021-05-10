@@ -12,3 +12,6 @@ print(output)
 
 output_dec = enc_dec(output, 20500)
 print(output_dec)
+
+
+
