@@ -8,5 +8,5 @@ print(var)
 var1 = False or (False and True) or True
 print(var1)
 
-var2 = (False or False) and (True or True)
+var2 = (False or False) and True or True
 print(var2)
