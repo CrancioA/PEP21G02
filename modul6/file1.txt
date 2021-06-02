@@ -1,0 +1,5 @@
+a = 1
+b = 1
+
+
+<frame at 0x000001E02C4240D0, file 'D:\\curs python\\PEP21G02\\modul6\\app4.py', line 33, code <module>>
